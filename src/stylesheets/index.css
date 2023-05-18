@@ -1,0 +1,81 @@
+
+
+.header {
+  margin: 2em 0 2em 0;
+  padding-bottom: 1em;
+  border-bottom: 1px solid;
+}
+
+.header a {
+  margin: 0 1em 0 1em;
+  font-size: 1.2em;
+  text-decoration: none;
+}
+
+.content {
+  margin-left: 2em;
+  font-size: 1.5em;
+}
+
+.message {
+  color: red;
+  font-size: 0.7em;
+}
+
+label {
+  font-size: 0.9em;
+}
+
+
+.navbar-brand{
+  font-family: 'Sriracha', cursive;
+}
+
+.btn-navbar{
+  margin-left: 10px;
+}
+
+
+NavLink {
+    text-decoration: none;
+}
+
+.fileUploadCont {
+  background-color: #fff;
+  border-radius: 4px;
+  border: solid #ccc;
+  margin: 40px auto;
+  padding: 30px;
+  width: 550px;
+}
+
+.headerUpload {
+  color: #3f4c6b;
+  font-size: 18px;
+  font-weight: 450;
+}
+
+.img-thumbnail{
+  height: 150px;
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.profile-btn {
+  width:45%;
+  padding:5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.linkpage-items {
+  margin: 20px auto;
+}
+
+.linkpage-btn {
+  width : 300px;
+}
+
