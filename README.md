@@ -1,7 +1,7 @@
 <p align="center">
 <h3 align="center">Basic Full-Stack Linktree Clone</h3>
 <p align="center">
-   Basic fullstack linktree clone is a web application where user can create their own profile page similar to linktree. In this project people can create an account, edit their informations, add a profile picture, and also create a profile page. This project was created using React, AWS Lambda, and DynamoDB.
+   Basic fullstack linktree clone is a web application where user can create their own profile page similar to linktree. In this project people can create an account, edit their informations, add a profile picture, and also create a profile page. This project was created using React JS, AWS Lambda, and DynamoDB.
     <br/>
 
 ## Project Preview
@@ -10,7 +10,7 @@
 
 ## Built With
 
-* React
+* React JS
 * AWS Lambda
 * AWS API Gateway
 * AWS DynamoDB
